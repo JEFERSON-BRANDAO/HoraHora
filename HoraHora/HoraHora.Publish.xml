@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="E:\BE" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="07/27/2020 07:16:21" />
+    <file relUrl="Erro.aspx" publishTime="12/19/2019 15:11:31" />
+    <file relUrl="YieldBot.aspx" publishTime="07/21/2020 14:21:33" />
+    <file relUrl="Site.Master" publishTime="12/19/2019 09:24:20" />
+    <file relUrl="graficos/Rma.aspx" publishTime="07/27/2020 07:24:54" />
+    <file relUrl="bin/HoraHora.pdb" publishTime="09/10/2020 14:27:28" />
+    <file relUrl="Imagens/carregando-pacotes.gif" publishTime="10/27/2017 21:14:49" />
+    <file relUrl="Imagens/LogoFoxconn.png" publishTime="01/30/2020 21:52:14" />
+    <file relUrl="bin/HoraHora.dll" publishTime="09/10/2020 14:27:28" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="04/22/2014 22:20:46" />
+    <file relUrl="Bot.aspx" publishTime="01/30/2020 17:08:30" />
+    <file relUrl="Imagens/carregandoLogin.gif" publishTime="10/27/2017 21:35:38" />
+    <file relUrl="Imagens/hh1.png" publishTime="12/06/2019 10:37:11" />
+    <file relUrl="Styles/Site.css" publishTime="12/09/2019 11:41:20" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="04/22/2014 22:20:46" />
+    <file relUrl="exibi_imagem.ashx" publishTime="01/29/2020 18:39:52" />
+    <file relUrl="DesempenhoBot.aspx" publishTime="07/15/2020 14:14:47" />
+    <file relUrl="Global.asax" publishTime="12/06/2019 09:45:51" />
+    <file relUrl="Aniversariante.aspx" publishTime="02/13/2020 16:48:21" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="04/22/2014 22:20:46" />
+    <file relUrl="graficos/Be.aspx" publishTime="02/06/2020 17:44:15" />
+    <file relUrl="Default.aspx" publishTime="12/23/2019 14:10:46" />
+    <file relUrl="bin/AjaxControlToolkit.dll" publishTime="04/23/2014 17:31:39" />
+    <file relUrl="Imagens/carregando.gif" publishTime="04/23/2014 17:31:46" />
+    <file relUrl="Imagens/icon/icone.ico" publishTime="11/12/2016 13:37:37" />
+  </publishProfile>
+</publishData>

@@ -1,0 +1,33 @@
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\HoraHora\HoraHora\bin\HoraHora.dll
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\HoraHora\HoraHora\bin\HoraHora.pdb
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\HoraHora\HoraHora\obj\Release\Interop.ORAOLEDBLib.dll
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\HoraHora\HoraHora\obj\Release\HoraHora.csproj.ResolveComReference.cache
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\HoraHora\HoraHora\obj\Release\HoraHora.dll
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\HoraHora\HoraHora\obj\Release\HoraHora.pdb
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\HoraHora\HoraHora\obj\Release\HoraHora.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HoraHora\HoraHora\bin\HoraHora.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HoraHora\HoraHora\bin\HoraHora.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HoraHora\HoraHora\obj\Release\HoraHora.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HoraHora\HoraHora\obj\Release\HoraHora.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HoraHora\HoraHora\obj\Release\HoraHora.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HoraHoraBE\HoraHora\HoraHora\bin\HoraHora.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HoraHoraBE\HoraHora\HoraHora\bin\HoraHora.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HoraHoraBE\HoraHora\HoraHora\obj\Release\HoraHora.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HoraHoraBE\HoraHora\HoraHora\obj\Release\HoraHora.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HoraHoraBE\HoraHora\HoraHora\obj\Release\HoraHora.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HoraHoraBE\HoraHora\HoraHora\obj\Release\HoraHora.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HoraHora\HoraHora\obj\Release\HoraHora.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HoraHoraBE\HoraHora\bin\HoraHora.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HoraHoraBE\HoraHora\bin\HoraHora.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HoraHoraBE\HoraHora\obj\Release\HoraHora.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HoraHoraBE\HoraHora\obj\Release\HoraHora.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HoraHoraBE\HoraHora\obj\Release\HoraHora.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HoraHoraBE\HoraHora\obj\Release\HoraHora.csprojResolveAssemblyReference.cache
+C:\Users\bc1g7962\Downloads\progr\programas\BE HORA A HORA\HoraHora\HoraHora\bin\HoraHora.dll.config
+C:\Users\bc1g7962\Downloads\progr\programas\BE HORA A HORA\HoraHora\HoraHora\bin\HoraHora.dll
+C:\Users\bc1g7962\Downloads\progr\programas\BE HORA A HORA\HoraHora\HoraHora\bin\HoraHora.pdb
+C:\Users\bc1g7962\Downloads\progr\programas\BE HORA A HORA\HoraHora\HoraHora\obj\Release\HoraHora.csproj.AssemblyReference.cache
+C:\Users\bc1g7962\Downloads\progr\programas\BE HORA A HORA\HoraHora\HoraHora\obj\Release\HoraHora.csproj.ResolveComReference.cache
+C:\Users\bc1g7962\Downloads\progr\programas\BE HORA A HORA\HoraHora\HoraHora\obj\Release\HoraHora.csproj.CoreCompileInputs.cache
+C:\Users\bc1g7962\Downloads\progr\programas\BE HORA A HORA\HoraHora\HoraHora\obj\Release\HoraHora.dll
+C:\Users\bc1g7962\Downloads\progr\programas\BE HORA A HORA\HoraHora\HoraHora\obj\Release\HoraHora.pdb

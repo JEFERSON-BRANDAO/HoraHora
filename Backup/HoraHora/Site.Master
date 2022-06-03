@@ -1,0 +1,58 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="HoraHora.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title></title>
+    <link rel="shortcut icon" type="image/x-icon" href="imagens/icon/icone.ico" />
+    <%-- <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />--%>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="Scripts/jquery-1.4.1.js"></script>
+    <script type="text/javascript" src="Scripts/jquery.maskedinput.js"></script>
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server">
+    <asp:ScriptManager ID="Scriptmanager1" EnableScriptGlobalization="True" runat="server">
+    </asp:ScriptManager>
+    <asp:UpdatePanel ID="StockPricePanel" runat="server" UpdateMode="Conditional">
+        <Triggers>
+            <asp:AsyncPostBackTrigger ControlID="Timer1" />
+        </Triggers>
+        <ContentTemplate>
+            <div class="page">
+                <div class="blocoGrupoCampos">
+                    <div class="header">
+                        <div class="title">
+                            <%--   <h1>
+                               
+                                <h1>--%>
+                            <asp:Label ID="lbHora" runat="server" ForeColor="White"></asp:Label>                             
+                               &nbsp;<asp:Label ID="lbIp" runat="server" ForeColor="White"></asp:Label>
+                             
+                           
+                            <%-- </h1>
+                                <h1>
+                                </h1>
+                            </h1>--%>
+                        </div>
+                        <br />
+                    </div>
+                </div>
+                <div class="main">
+                    <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+                </div>
+                <div class="clear">
+                </div>
+            </div>
+            <div class="footer">
+                <asp:Label ID="lbRodape" runat="server" ForeColor="White"></asp:Label>
+            </div>
+            <asp:Timer ID="Timer1" runat="server" Interval="1000">
+            </asp:Timer>
+        </ContentTemplate>
+    </asp:UpdatePanel>
+    </form>
+</body>
+</html>
